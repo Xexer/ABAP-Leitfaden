@@ -275,6 +275,13 @@ Ich hoffe, dass diese Version des Leitfadens vielen ABAP-Entwicklern hilft und m
 </tbody>
 </table>
 
+Ein Teil des Leitfaden-Teams hatte sich im März 2026 zu den DSAG Technologietagen in Hamburg getroffen. 
+
+![Leitfaden-Team](./img/image-01.jpg)
+
+Teil des Leitfaden-Teams
+{: .img-caption}
+
 ## Danksagungen
 
 
