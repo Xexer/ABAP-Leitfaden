@@ -263,7 +263,10 @@ Ich hoffe, dass diese Version des Leitfadens vielen ABAP-Entwicklern hilft und m
 <tr class="odd">
 <td>Timo John</td>
 <td>Testing, ABAP, Clean Core</td>
-<td></td>
+<td>Timo John ist Lead Developer mit Schwerpunkt auf moderner ABAP‑Entwicklung, sauberer Software‑Architektur und hoher Code‑Qualität. Sein Fokus liegt auf nachhaltigem Design, Wartbarkeit und professionellen Entwicklungsstandards – insbesondere im S/4HANA‑Umfeld.
+Er arbeitet konsequent mit den ABAP Development Tools (ADT), praktiziert Clean ABAP und betrachtet ABAP Unit Testing als festen Bestandteil qualitativ hochwertiger Entwicklung.
+Ein weiteres zentrales Interessens‑ und Kompetenzfeld ist ABAP Vibe Coding sowie der Einsatz von Künstlicher Intelligenz zur Unterstützung der Softwareentwicklung. Timo beschäftigt sich intensiv damit, wie KI‑basierte Ansätze Entwickler produktiver machen, Code‑Qualität verbessern und moderne ABAP‑Entwicklung sinnvoll ergänzen können.
+Als Speaker und Trainer teilt er seine Erfahrung mit der Community und unterstützt Entwickler dabei, besseren ABAP‑Code schneller und effizienter zu schreiben.</td>
 </tr>
 
 <tr class="odd">
